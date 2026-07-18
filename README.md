@@ -1,41 +1,44 @@
 # Vedant Audichya
 
-### Business Analyst & Graduate Consultant | Strategy · Operations · Risk · Data
+### Operations-led business analyst | Strategy, process improvement, risk and analytics
 
-I am completing an **MSc in Business Analysis and Consulting at the University of Strathclyde**. I turn ambiguous business problems into structured decisions by combining business analysis, quantitative modelling and clear executive communication.
+I learned business analysis through operating responsibility before I learned its formal methods.
 
-My portfolio focuses on a practical question: **what should an organisation do next, why, and how can the decision be defended?**
+Over four years, I progressed from managing a five-person gym branch to taking operational responsibility across **three sites, 25+ staff and 1,200+ clients**. I also co-founded a **60-room student-accommodation venture** that sustained full occupancy. Those experiences taught me that a recommendation is only useful if it works with real people, imperfect data and day-to-day constraints.
+
+I am now completing an **MSc in Business Analysis and Consulting at the University of Strathclyde**, where I have added structured consulting, modelling and decision-analysis methods to that operating foundation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedantaudichya-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantaudichya)
 
-## Selected consulting and analysis work
+## Selected evidence
 
-| Case study | Decision supported | Methods and evidence |
-| --- | --- | --- |
-| [Census 2031 digital inclusion](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk) | Where research and assisted-digital interventions should be prioritised | OLS regression, composite indicators, Monte Carlo sensitivity analysis and 12 automated tests |
-| [Accessible employee services](https://github.com/Vedant-Au/accessible-employee-services-business-case) | Whether and how to fund a phased accessibility programme | MCDA, cost-benefit modelling, uncertainty testing and a [working prototype](https://vedant-au.github.io/accessible-employee-services-business-case/) |
-| [Enterprise risk management](https://github.com/Vedant-Au/enterprise-risk-management-framework) | How a growing industrial group can introduce proportionate ERM governance | Risk register, FMEA, KRIs, heat maps and implementation roadmap |
-| [VFX workflow automation](https://github.com/Vedant-Au/vfx-workflow-automation-decision-model) | Whether to phase AI-assisted scheduling or move directly to full automation | As-is/to-be analysis, MCDA, 10,000-draw sensitivity test and change sequencing |
-| [Offshore-wind carbon model](https://github.com/Vedant-Au/offshore-wind-carbon-footprint-model) | Where to focus embodied-carbon reduction before turbine operation | Boundary definition, unit-aware modelling and scenario analysis |
+### [VFX workflow automation](https://github.com/Vedant-Au/vfx-workflow-automation-decision-model)
 
-## How I work
+As project lead, I mapped production workflows through interviews and system evidence, identified nine recurring bottlenecks and recommended targeted automation. The client adopted the changes, with manual reporting effort reduced by approximately **30%**. The repository implements the option appraisal and sensitivity model behind the phased recommendation.
 
-- **Frame the decision:** clarify the problem, stakeholders, constraints, assumptions and success measures.
-- **Build defensible evidence:** use process analysis, options appraisal, financial or risk modelling and sensitivity testing.
-- **Translate analysis into action:** recommend a direction, define controls and sequence delivery.
-- **Make limitations visible:** distinguish evidence from assumptions and document what must be validated next.
+### [Census 2031 digital inclusion](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk)
 
-## Capabilities
+Led a six-person team analysing **328 local authorities**. Regression showed that 2021 mode allocation explained **96.4%** of observed online-completion variation, changing how the team interpreted digital-exclusion risk. The implementation combines residual analysis, a six-component index and Monte Carlo testing.
 
-| Business analysis and consulting | Data and decision support | Delivery and assurance |
-| --- | --- | --- |
-| Problem framing | Python and SQL | Implementation roadmaps |
-| As-is/to-be process analysis | Excel, Power BI and Tableau | Benefits and KPI design |
-| Requirements and option appraisal | Regression, MCDA and scenario modelling | Risk, controls and governance |
-| Business cases and recommendations | Data validation and visualisation | GitHub Actions and automated tests |
+### [Enterprise risk management](https://github.com/Vedant-Au/enterprise-risk-management-framework)
 
-## Current focus
+Led an MSc client engagement for a **£25M engineering group**, translating ISO 31000 and COSO principles into a proportionate governance model, risk lifecycle and phased roadmap. The published implementation includes a tested risk register, FMEA scoring and KRI design.
 
-I am interested in UK opportunities across **business analysis, consulting, operations, transformation, risk and data-informed decision support**.
+### [Accessible employee services](https://github.com/Vedant-Au/accessible-employee-services-business-case)
 
-For a quick assessment of my work, start with the [Census 2031 analysis](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk) or the [accessible employee-services business case](https://github.com/Vedant-Au/accessible-employee-services-business-case).
+Connected accessibility findings to an investment decision: MCDA prioritisation, a benefits model with a base three-year NPV of **£787k**, a delivery backlog and a [working accessible prototype](https://vedant-au.github.io/accessible-employee-services-business-case/). The financial result is explicitly treated as a scenario to validate, not a guaranteed return.
+
+### [Offshore-wind carbon model](https://github.com/Vedant-Au/offshore-wind-carbon-footprint-model)
+
+Led the underlying sustainability case and implemented a boundary-conscious scenario model. The case evidence places **94.7%** of cradle-to-gate global-warming impact in manufacturing and estimates **5,544-6,336 t CO2e** per turbine across the tested allocation range.
+
+## How I approach a problem
+
+1. Define the decision, not just the analysis request.
+2. Trace evidence to assumptions and make uncertainty visible.
+3. Compare options against operating constraints and stakeholder needs.
+4. Recommend a practical sequence, with controls and measures attached.
+
+My working toolkit includes **Python, SQL, Excel, Power BI and Tableau**, alongside process analysis, financial modelling, MCDA, risk methods and scenario analysis.
+
+I am interested in UK opportunities across business analysis, consulting, operations, transformation and risk where analytical work is expected to lead to practical change.
