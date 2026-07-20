@@ -1,6 +1,6 @@
 # Vedant Audichya
 
-### Operations-led business analyst | Strategy, process improvement, risk and analytics
+> Operations-led business analyst | Strategy, process improvement, risk and analytics
 
 I learned business analysis through operating responsibility before I learned its formal methods.
 
