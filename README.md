@@ -4,7 +4,7 @@ MSc Business Analysis and Consulting, University of Strathclyde · predicted Dis
 Glasgow, UK · open to relocating</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedantaudichya"><img src="https://img.shields.io/badge/LinkedIn-vedantaudichya-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/vedantaudichya"><img src="https://img.shields.io/badge/LinkedIn-vedantaudichya-0A66C2" alt="LinkedIn"/></a>
   <a href="mailto:vedanta240701@gmail.com"><img src="https://img.shields.io/badge/Email-vedanta240701%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
