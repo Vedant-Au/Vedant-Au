@@ -10,7 +10,7 @@ Glasgow, UK · open to relocating</p>
 
 ---
 
-Before my MSc I spent three years building two businesses: a gym I helped grow from 5 staff to **3 branches, 25+ people and 1,200+ clients**, and a **60-room student accommodation venture** I co-founded from scratch. Running operations taught me how to keep things working. I went back to study to learn why they stop working.
+Before my MSc I spent three years building two businesses: a gym I helped grow from 5 staff to **3 branches, 25+ people and 1,200+ clients**, and a **60-room student accommodation venture** I co-founded from scratch, which held 100% occupancy for consecutive years while the local market averaged 60 to 70%. Running operations taught me how to keep things working. I went back to study to learn why they stop working.
 
 The number is rarely the hard part. The hard part is noticing what doesn't fit, and deciding what to do about it before the full picture arrives. Every project below states its question, what I found, and where the analysis is weak.
 
@@ -20,7 +20,7 @@ The number is rarely the hard part. The hard part is noticing what doesn't fit, 
 
 | Project | The question | What I found |
 |---|---|---|
-| [**NHS Elective Capacity**](https://github.com/Vedant-Au/nhs-elective-capacity-analysis)<br/><sub>Self-directed · sole author · Python, SQL, DuckDB, Excel Solver, Tableau</sub> | Where should an NHS region spend a limited elective recovery budget? | The limit is money, not capacity: no delivery lever's ceiling binds until £31.9m, against £7.5m–£30m under consideration. My own validation caught three defects, one of which reversed the recommendation. |
+| [**NHS Elective Capacity**](https://github.com/Vedant-Au/nhs-elective-capacity-analysis)<br/><sub>Self-directed · sole author · Python, SQL, DuckDB, Excel Solver, Tableau</sub> | Where should an NHS region spend a limited elective recovery budget? | The limit is money, not capacity: no delivery lever's ceiling binds until £31.9m, against £7.5m–£30m under consideration. My own validation caught three defects, one of which reversed the recommendation. [Interactive Tableau story](https://public.tableau.com/views/NHS_Cheshire_Merseyside_Capacity_Story/NHSCheshireMerseysideCapacityStory). |
 | [**ONS Census 2031: Digital Inclusion**](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk)<br/><sub>Live client · team of 6 · Python, regression, Monte Carlo</sub> | Which areas are most at risk of low online response? | Paper-first allocation, a policy choice, explains 96% of the variation (R² = 0.964, n = 328). Ranking on raw figures would repeat the 2021 targeting. |
 | [**WB Alloys: Enterprise Risk**](https://github.com/Vedant-Au/enterprise-risk-management-framework)<br/><sub>Live client · team of 5 · ISO 31000, COSO, FMEA</sub> | How should a £25m, three-country group govern risk? | Its approach suits a single-site firm that no longer exists. Four governance gaps, four blind spots, and a board-to-frontline framework. |
 | [**Accessible Employee Services**](https://github.com/Vedant-Au/accessible-employee-services-business-case)<br/><sub>Simulated brief · team lead of 6 · NPV, MCDA, Monte Carlo</sub> | Is fixing inaccessible staff portals worth funding, and in what order? | 3-year NPV £787,496, positive in 98% of 1,000 simulations. Includes a [working prototype](https://vedant-au.github.io/accessible-employee-services-business-case/). |
