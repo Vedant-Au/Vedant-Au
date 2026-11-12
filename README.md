@@ -66,7 +66,7 @@ The number is rarely the hard part. The hard part is noticing what doesn't fit, 
 | **Consulting and analysis** | Problem structuring · MCDA (SMART, swing weighting) · SODA cognitive mapping · scenario analysis · Balanced Scorecard · resource-based view · process mapping · Theory of Constraints |
 | **Risk** | Fault and event trees · bow-tie · FMEA · influence diagrams · Monte Carlo · ISO 31000, COSO |
 | **Finance** | NPV · benefit-cost analysis · business cases |
-| **Data** | Python (pandas, NumPy, statsmodels) · SQL · DuckDB · Excel (Solver, Power Query) · Power BI · Tableau |
+| **Data** | Python (pandas, NumPy, statsmodels) · SQL · PostgreSQL · DuckDB · Excel (Solver, Power Query) · Power BI · Tableau |
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
